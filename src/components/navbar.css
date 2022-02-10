@@ -1,0 +1,45 @@
+.navbar {
+  font-size: 1.1rem;
+  background: none !important;
+}
+
+.navbar {
+  margin-top: -300px !important;
+}
+
+.navbar-container {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-item {
+  height: 80px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 2rem;
+  height: 100%;
+}
+
+.nav-link {
+  color: yellow !important;
+}
+
+.nav-link:hover {
+  color: white !important;
+  border-bottom: 2px solid yellow;
+  cursor: pointer;
+}
+
+.nav-line {
+  color: white !important;
+}
+
+.nav-line:hover {
+  border-bottom: none !important;
+}
