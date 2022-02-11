@@ -94,3 +94,7 @@
   text-decoration: none !important;
   transform: scale(1.05);
 }
+
+.btn:focus {
+  box-shadow: none !important;
+}
